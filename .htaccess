@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "hasan-lp"
+AuthUserFile "./hasan.html"
+require valid-user
